@@ -1,3 +1,2 @@
-module golang.org/x/sys
-
+module github.com/golang/sys
 go 1.12
